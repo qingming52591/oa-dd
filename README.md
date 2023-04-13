@@ -4,3 +4,5 @@ yarn install
 yarn start
 ## mini 打包
 yarn mini
+
+## 测试push
